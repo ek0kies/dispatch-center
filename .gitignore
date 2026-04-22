@@ -1,0 +1,6 @@
+.DS_Store
+.env
+.dispatch/
+node_modules/
+dist/
+coverage/
